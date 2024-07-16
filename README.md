@@ -5,7 +5,9 @@ Criação de Animes.
 
 ## 🤖 Tecnologias Utilizadas
 Copilot para a criação do conteúdo.
+
 Copilot para a criação da imagens.
+
 Word para edição das imagens com o conteúdo.
 
 ## 🧐 Processo de Criação
